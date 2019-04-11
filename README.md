@@ -1,2 +1,7 @@
 # Wide-Residual-Networks
-Implementation of https://arxiv.org/pdf/1605.07146.pdf
+
+<h4> Architecture </h4>
+
+![alt text](/wrn.png "wrn")
+
+![alt text](/model.png "model")
